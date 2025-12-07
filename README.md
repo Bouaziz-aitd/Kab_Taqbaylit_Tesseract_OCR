@@ -26,6 +26,7 @@ Performance using python dedicated script test_cer.py
 ## Optimal Performance from Fine Tuning
 Tesseract ended at checkpoint with  
 BCER: 2.9% at iteration #26000
+
 Performance using python dedicated script test_cer.py
 - Character Error Rate (CER): 5.08%
 - Word Error Rate (WER): 15.28%
