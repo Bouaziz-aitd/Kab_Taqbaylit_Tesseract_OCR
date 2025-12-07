@@ -1,3 +1,5 @@
+## CHANGE LOG HISTORY
+
 ## v1.0 (2025-11-24)
 - Initial release
 - CER: 30.56%, WER: 72.94%
@@ -10,4 +12,5 @@
 - CER: 5.08%, WER: 15.28%
 - 30k wordlist
 - Support for all Kabyle diacritics
+
 ```
