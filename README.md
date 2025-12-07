@@ -57,7 +57,7 @@ where Tesseract is installed and not from the Tesseract installed under windows.
 - Minimum 150 DPI resolution
 
 ## License
-[Choose: Apache 2.0, MIT, CC-BY-4.0, etc.]
+[Apache 2.0]
 
 ## Citation
 If you use this model, please cite:
@@ -65,7 +65,7 @@ If you use this model, please cite:
 
 ## Known Limitations
 - Numbers: Limited training data
-- Some old less used characters such as "Г" equivalent to "ɣ" and "ţ" equivalent to "tt"
+- May miss some old less used characters such as "Г" equivalent to "ɣ" and "ţ" equivalent to "tt"
 - Performance degrades with poor scan quality
 - Best results on printed text (not handwritten)
 
